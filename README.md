@@ -1,3 +1,7 @@
+## Archived Repository
+
+**This repository was a gift from me to the Rust and open-source community. It is no longer actively maintained and has been archived. Feel free to fork and continue development on your own.**
+
 # riscv_perf
 
 **riscv_perf** is a performance profiling library for RISC-V programs. It enables RISC-V developers and hobbyists to collect and visualize performance metrics, providing valuable insights into the efficiency of their programs. Whether you're developing software for RISC-V microcontrollers or experimenting with RISC-V emulators, `riscv_perf` offers a practical tool to optimize your code.
@@ -49,7 +53,4 @@ Contributions from anyone interested in improving this library are welcome. Feel
 This project is licensed under the MIT License.
 
 ## Author
-Ben Santora <bensatlantik@gmail.com>
-
-## Donate
-https://bensatlantik.github.io/
+Ben Santora 
